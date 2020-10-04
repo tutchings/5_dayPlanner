@@ -80,5 +80,10 @@ textarea{
 
 .form-control {
   height: 80px;
+  color: white;
+}
+
+.form-control : hover {
+  border: blue 2px solid; 
 }
 
